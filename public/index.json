@@ -1,0 +1,163 @@
+{
+  "entries": [
+    {
+      "id": "kabir-sample-youtube",
+      "platform": "youtube",
+      "key": "kabir-sample",
+      "title": "Kabir sample portrait video",
+      "duration": 5,
+      "width": 360,
+      "height": 640,
+      "outputs": [
+        {
+          "id": "kabir-sample-mp4-360",
+          "kind": "video",
+          "container": "mp4",
+          "quality": "360p",
+          "width": 202,
+          "height": 360,
+          "sizeBytes": 52080,
+          "url": "/media/kabir-sample-mp4-360.mp4",
+          "filename": "kabir-sample-360p.mp4"
+        },
+        {
+          "id": "kabir-sample-webm-360",
+          "kind": "video",
+          "container": "webm",
+          "quality": "360p",
+          "width": 202,
+          "height": 360,
+          "sizeBytes": 52704,
+          "url": "/media/kabir-sample-webm-360.webm",
+          "filename": "kabir-sample-360p.webm"
+        },
+        {
+          "id": "kabir-sample-mp3-128",
+          "kind": "audio",
+          "container": "mp3",
+          "quality": "128k",
+          "bitrate": 128,
+          "sizeBytes": 81230,
+          "url": "/media/kabir-sample-mp3-128.mp3",
+          "filename": "kabir-sample-128k.mp3"
+        },
+        {
+          "id": "kabir-sample-mp3-192",
+          "kind": "audio",
+          "container": "mp3",
+          "quality": "192k",
+          "bitrate": 192,
+          "sizeBytes": 121772,
+          "url": "/media/kabir-sample-mp3-192.mp3",
+          "filename": "kabir-sample-192k.mp3"
+        }
+      ]
+    },
+    {
+      "id": "kabir-sample-facebook",
+      "platform": "facebook",
+      "key": "kabir-sample",
+      "title": "Kabir sample portrait video",
+      "duration": 5,
+      "width": 360,
+      "height": 640,
+      "outputs": [
+        {
+          "id": "kabir-sample-mp4-360",
+          "kind": "video",
+          "container": "mp4",
+          "quality": "360p",
+          "width": 202,
+          "height": 360,
+          "sizeBytes": 52080,
+          "url": "/media/kabir-sample-mp4-360.mp4",
+          "filename": "kabir-sample-360p.mp4"
+        },
+        {
+          "id": "kabir-sample-webm-360",
+          "kind": "video",
+          "container": "webm",
+          "quality": "360p",
+          "width": 202,
+          "height": 360,
+          "sizeBytes": 52704,
+          "url": "/media/kabir-sample-webm-360.webm",
+          "filename": "kabir-sample-360p.webm"
+        },
+        {
+          "id": "kabir-sample-mp3-128",
+          "kind": "audio",
+          "container": "mp3",
+          "quality": "128k",
+          "bitrate": 128,
+          "sizeBytes": 81230,
+          "url": "/media/kabir-sample-mp3-128.mp3",
+          "filename": "kabir-sample-128k.mp3"
+        },
+        {
+          "id": "kabir-sample-mp3-192",
+          "kind": "audio",
+          "container": "mp3",
+          "quality": "192k",
+          "bitrate": 192,
+          "sizeBytes": 121772,
+          "url": "/media/kabir-sample-mp3-192.mp3",
+          "filename": "kabir-sample-192k.mp3"
+        }
+      ]
+    },
+    {
+      "id": "kabir-sample-instagram",
+      "platform": "instagram",
+      "key": "KabirSample",
+      "title": "Kabir sample portrait video",
+      "duration": 5,
+      "width": 360,
+      "height": 640,
+      "outputs": [
+        {
+          "id": "kabir-sample-mp4-360",
+          "kind": "video",
+          "container": "mp4",
+          "quality": "360p",
+          "width": 202,
+          "height": 360,
+          "sizeBytes": 52080,
+          "url": "/media/kabir-sample-mp4-360.mp4",
+          "filename": "kabir-sample-360p.mp4"
+        },
+        {
+          "id": "kabir-sample-webm-360",
+          "kind": "video",
+          "container": "webm",
+          "quality": "360p",
+          "width": 202,
+          "height": 360,
+          "sizeBytes": 52704,
+          "url": "/media/kabir-sample-webm-360.webm",
+          "filename": "kabir-sample-360p.webm"
+        },
+        {
+          "id": "kabir-sample-mp3-128",
+          "kind": "audio",
+          "container": "mp3",
+          "quality": "128k",
+          "bitrate": 128,
+          "sizeBytes": 81230,
+          "url": "/media/kabir-sample-mp3-128.mp3",
+          "filename": "kabir-sample-128k.mp3"
+        },
+        {
+          "id": "kabir-sample-mp3-192",
+          "kind": "audio",
+          "container": "mp3",
+          "quality": "192k",
+          "bitrate": 192,
+          "sizeBytes": 121772,
+          "url": "/media/kabir-sample-mp3-192.mp3",
+          "filename": "kabir-sample-192k.mp3"
+        }
+      ]
+    }
+  ]
+}
