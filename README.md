@@ -30,6 +30,10 @@ npm run build
 
 Deploy the generated `out/` directory to any static host. Original files stay outside the public export. The source list is the catalog; rebuilding removes the old generated catalog/media before writing the new release.
 
+## GitHub Pages
+
+The repository includes a GitHub Actions workflow at `.github/workflows/deploy-pages.yml`. Enable Pages in the repository settings with **Source: GitHub Actions**, then every push to `main` will prepare the demo media, run typecheck/tests, build with the repository base path, and deploy `out/` automatically. The project site URL will be `https://KDS100-debug.github.io/kabir-media-downloader/`.
+
 ## Checks
 
 ```powershell

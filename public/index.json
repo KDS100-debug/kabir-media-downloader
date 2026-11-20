@@ -17,7 +17,7 @@
           "width": 202,
           "height": 360,
           "sizeBytes": 52080,
-          "url": "/media/kabir-sample-mp4-360.mp4",
+          "url": "media/kabir-sample-mp4-360.mp4",
           "filename": "kabir-sample-360p.mp4"
         },
         {
@@ -28,7 +28,7 @@
           "width": 202,
           "height": 360,
           "sizeBytes": 52704,
-          "url": "/media/kabir-sample-webm-360.webm",
+          "url": "media/kabir-sample-webm-360.webm",
           "filename": "kabir-sample-360p.webm"
         },
         {
@@ -38,7 +38,7 @@
           "quality": "128k",
           "bitrate": 128,
           "sizeBytes": 81230,
-          "url": "/media/kabir-sample-mp3-128.mp3",
+          "url": "media/kabir-sample-mp3-128.mp3",
           "filename": "kabir-sample-128k.mp3"
         },
         {
@@ -48,7 +48,7 @@
           "quality": "192k",
           "bitrate": 192,
           "sizeBytes": 121772,
-          "url": "/media/kabir-sample-mp3-192.mp3",
+          "url": "media/kabir-sample-mp3-192.mp3",
           "filename": "kabir-sample-192k.mp3"
         }
       ]
@@ -70,7 +70,7 @@
           "width": 202,
           "height": 360,
           "sizeBytes": 52080,
-          "url": "/media/kabir-sample-mp4-360.mp4",
+          "url": "media/kabir-sample-mp4-360.mp4",
           "filename": "kabir-sample-360p.mp4"
         },
         {
@@ -81,7 +81,7 @@
           "width": 202,
           "height": 360,
           "sizeBytes": 52704,
-          "url": "/media/kabir-sample-webm-360.webm",
+          "url": "media/kabir-sample-webm-360.webm",
           "filename": "kabir-sample-360p.webm"
         },
         {
@@ -91,7 +91,7 @@
           "quality": "128k",
           "bitrate": 128,
           "sizeBytes": 81230,
-          "url": "/media/kabir-sample-mp3-128.mp3",
+          "url": "media/kabir-sample-mp3-128.mp3",
           "filename": "kabir-sample-128k.mp3"
         },
         {
@@ -101,7 +101,7 @@
           "quality": "192k",
           "bitrate": 192,
           "sizeBytes": 121772,
-          "url": "/media/kabir-sample-mp3-192.mp3",
+          "url": "media/kabir-sample-mp3-192.mp3",
           "filename": "kabir-sample-192k.mp3"
         }
       ]
@@ -123,7 +123,7 @@
           "width": 202,
           "height": 360,
           "sizeBytes": 52080,
-          "url": "/media/kabir-sample-mp4-360.mp4",
+          "url": "media/kabir-sample-mp4-360.mp4",
           "filename": "kabir-sample-360p.mp4"
         },
         {
@@ -134,7 +134,7 @@
           "width": 202,
           "height": 360,
           "sizeBytes": 52704,
-          "url": "/media/kabir-sample-webm-360.webm",
+          "url": "media/kabir-sample-webm-360.webm",
           "filename": "kabir-sample-360p.webm"
         },
         {
@@ -144,7 +144,7 @@
           "quality": "128k",
           "bitrate": 128,
           "sizeBytes": 81230,
-          "url": "/media/kabir-sample-mp3-128.mp3",
+          "url": "media/kabir-sample-mp3-128.mp3",
           "filename": "kabir-sample-128k.mp3"
         },
         {
@@ -154,7 +154,7 @@
           "quality": "192k",
           "bitrate": 192,
           "sizeBytes": 121772,
-          "url": "/media/kabir-sample-mp3-192.mp3",
+          "url": "media/kabir-sample-mp3-192.mp3",
           "filename": "kabir-sample-192k.mp3"
         }
       ]
